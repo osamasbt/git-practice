@@ -1,7 +1,5 @@
 # Practice with git and GitHub
 
-I'm Osama and I edited this file!
-
 \[Your Step 3 Edit Here\]
 
 Second Commit Additional 
